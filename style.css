@@ -205,6 +205,19 @@ p {
 
 }
 
+@media screen and (max-width:1070px){
+
+  .try{
+    margin-right: 35px;
+  }
+}
+
+@media screen and (max-width:990px){
+  .try{
+    margin-right: 283px;
+  }
+}
+
 @media screen and (max-width:900px){
   .try{
     margin-right: 230px;
@@ -255,6 +268,12 @@ p {
    .btn{
      padding: 10px 20px;
    }
+}
+
+@media screen and (max-width:440px){
+  .try{
+    margin-right:5px;
+  }
 }
 
 @media screen and (max-width: 400px) {
